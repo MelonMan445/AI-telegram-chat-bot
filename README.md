@@ -40,6 +40,10 @@ Running the Bot
 
 Run the script and text the bot (very easy)
 
+test bot
+---
+https://t.me/ai_tele_character_bot
+
 ---
 Customization
 ---
